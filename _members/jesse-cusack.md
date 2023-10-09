@@ -1,13 +1,13 @@
 ---
-name: Jane Smith
+name: Jesse Cusack
 image: images/photo.jpg
 role: pi
 aliases:
-  - J. Smith
-  - J Smith
+  - J. M. Cusack
+  - Jesse M. Cusack
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://jessecusack.github.io
+  orcid: 0000-0003-2065-4397
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
