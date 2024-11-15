@@ -2,6 +2,7 @@
 name: Jesse Cusack
 image: images/photo.jpg
 role: pi
+affiliation: University of Colorado
 aliases:
   - J. M. Cusack
   - Jesse M. Cusack

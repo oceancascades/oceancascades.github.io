@@ -1,5 +1,9 @@
 ---
 title: Example post 3
+<<<<<<< HEAD
+=======
+image: images/photo.jpg
+>>>>>>> template/main
 author: john-doe
 tags: biology, medicine
 ---

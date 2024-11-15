@@ -33,7 +33,11 @@ layout: default
 {%- endcapture %}
 
 <p class="center">
+<<<<<<< HEAD
   <a href="{{ search | relative_url }}">
+=======
+  <a href="{{ search | relative_url | uri_escape }}">
+>>>>>>> template/main
     Search for {{ page.name | default: page.title }}'s papers on the Research page
   </a>
 </p>
@@ -44,7 +48,11 @@ layout: default
 
 <!--
 <p class="center">
+<<<<<<< HEAD
   <a href="{{ search | relative_url }}">
+=======
+  <a href="{{ search | relative_url | uri_escape }}">
+>>>>>>> template/main
     See {{ page.name | default: page.title }}'s posts on the Blog page
   </a>
 </p>
